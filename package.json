@@ -4,7 +4,7 @@
 	"description": "aesthetic dark theme",
 	"publisher": "manojjoshi",
 	"icon": "logo.png",
-	"version": "2.0.0",
+	"version": "2.0.1",
 	"engines": {
 		"vscode": "^1.73.0"
 	},
@@ -26,9 +26,14 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Aesthetic",
+				"label": "Aesthetic (blue)",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Aesthetic-color-theme.json"
+				"path": "./themes/Aesthetic_blue.json"
+			},
+			{
+				"label": "Aesthetic (modern)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Aesthetic_modern.json"
 			}
 		],
 		"iconThemes": [

@@ -21,6 +21,7 @@ You can install Aesthetic from the VS Code Marketplace by searching for "Aesthet
 
 1. preview
    ![syntax hilighting](https://raw.githubusercontent.com/hello-manoj/extra/main/images/preview.png)
+   ![syntax hilighting](https://raw.githubusercontent.com/hello-manoj/extra/main/images/preview2.png)
 
 ---
 
