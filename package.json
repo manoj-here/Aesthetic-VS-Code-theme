@@ -12,11 +12,9 @@
 		"Themes"
 	],
 	"keywords": [
-		"aesthetic",
-		"icons",
+		"aesthetic",		
 		"theme",
-		"material",
-		"icon-theme",
+		"material",		
 		"customization"
 	],
 	"vsce": {
@@ -36,26 +34,12 @@
 				"path": "./themes/Aestheticgray-color-theme.json"
 			},
 			{
-				"label": "Aesthetic (Dark)",
+				"label": "Aesthetic (Dark-blue)",
 				"uiTheme": "vs-dark",
 				"path": "./themes/Aesthetic-dark-color-theme.json"
 			}
 		],
-		"iconThemes": [
-			{
-				"id": "aesthetic-icons",
-				"label": "Aesthetic icons",
-				"path": "./iconThemes/icons.json",
-				"_watch": true
-			}
-		],
-		"productIconThemes": [
-			{
-				"id": "aesthetic-product-icons",
-				"label": "Aesthetic Product Icons",
-				"path": "./producticons/aesthetic-product-icons.json"
-			}
-		]
+		
 	},
 	"__metadata": {
 		"id": "9983c8e7-4d88-403a-92f1-b1bda5bebf4f",
