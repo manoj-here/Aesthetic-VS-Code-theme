@@ -10,7 +10,6 @@ Aesthetic is a VS Code extension that provides dark themes designed to enhance y
 
 1. preview
    ![syntax hilighting](https://raw.githubusercontent.com/hello-manoj/extra/main/images/preview.png)
-   ![syntax hilighting](https://raw.githubusercontent.com/hello-manoj/extra/main/images/preview2.png)
 
 ---
 
